@@ -1,8 +1,7 @@
 # Maven
 /target/
-/test-output/
+
 # TestNG generated reports
-/test-output/
 
 # Eclipse
 .classpath
